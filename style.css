@@ -92,5 +92,9 @@ i:hover {
   .container {
     width: 300px;
   }
-
+  .list-inline li {
+    display: inline;
+    padding: 10px;
+    font-size: 2em;
+  }
 }
